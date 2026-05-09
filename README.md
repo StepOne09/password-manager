@@ -9,7 +9,3 @@ A simple terminal-based password manager built with Python.
 - Delete passwords
 - JSON storage
 
-## Run
-
-```bash
-python app.py
